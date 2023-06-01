@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="ok_button">OK</string>
+    <string name="hint">Enter the task title</string>
+</resources>
